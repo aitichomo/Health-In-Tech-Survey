@@ -1,8 +1,6 @@
 # Machine-Learning-For-Mental-Health-In-Tech
 
-## Author
-
-**Mustapha Ait Ichou**
+## Author : <b>Mustapha Ait Ichou</b>
 
 * The project involves machine learning models that can assist in predicting mental health conditions, analyzing mental health-related data and creating tools that help in diagnosing or monitoring mental health conditions.
 
