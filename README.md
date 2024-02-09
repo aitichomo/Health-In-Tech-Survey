@@ -1,11 +1,9 @@
 # Machine-Learning-For-Mental-Health-In-Tech
-The project involves machine learning models that can assist in predicting mental health conditions, analyzing mental health-related data and creating tools that help in diagnosing or monitoring mental health conditions.
-#Project Name : Mental Health in Tech Survey
-
 #Auhtor : Mustapha Ait Ichou
 
 #Institution :  Faculty of Sciences Rabat
 
+* The project involves machine learning models that can assist in predicting mental health conditions, analyzing mental health-related data and creating tools that help in diagnosing or monitoring mental health conditions.
 
  * Develop a machine learning model to predict the mental health status of individuals working in the tech industry based on survey responses. This project aims to identify factors influencing mental health and provide insights for supporting mental well-being in the workplace.
 
